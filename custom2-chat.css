@@ -1,0 +1,11 @@
+.vfrc-chat--session-time { 
+    display: none; 
+}
+
+.vfrc-timestamp {
+    display: none;
+} 
+
+.vfrc-message {
+    justify-content: flex-start;
+}
