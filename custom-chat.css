@@ -1,0 +1,26 @@
+.vfrc-chat--session-time { 
+    display: none; 
+}
+
+.vfrc-timestamp {
+    display: none;
+}
+
+/* Cacher le texte du bouton */
+.vfrc-button {
+    font-size: 0;
+}
+  
+  /* Ajouter le nouveau texte pour le bouton 'End Chat' */
+.vfrc-button.c-dzcdPV::after {
+    content: 'Terminer le chat';
+    font-size: 14px; /* ou la taille de police que vous aviez avant */
+}
+  
+  /* Ajouter le nouveau texte pour le bouton 'Cancel' */
+.vfrc-button.c-jijMWV::after {
+    content: 'Annuler';
+    font-size: 14px; /* ou la taille de police que vous aviez avant */
+}
+  
+
