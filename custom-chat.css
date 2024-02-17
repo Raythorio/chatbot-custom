@@ -1,3 +1,7 @@
 .vfrc-chat--session-time { 
     display: none; 
 }
+
+.vfrc-timestamp {
+    color: white;
+}
