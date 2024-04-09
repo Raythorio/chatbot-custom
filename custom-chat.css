@@ -5,3 +5,7 @@
 .vfrc-timestamp {
     color: #FFFFFF;
 }
+
+.vrfc-widget--chat {
+    height: 580px;
+}
