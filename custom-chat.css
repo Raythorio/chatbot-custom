@@ -5,3 +5,7 @@
 .vfrc-timestamp {
     color: #FFFFFF;
 }
+
+.vfrc-vc-chat--dialog {
+    max-height: 580px;
+}
