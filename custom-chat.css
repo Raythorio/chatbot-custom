@@ -5,3 +5,7 @@
 .vfrc-timestamp {
     color: #FF0000;
 }
+
+.vfrc-chat--overlay {
+    height: 500px;
+}
