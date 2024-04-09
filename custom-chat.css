@@ -6,6 +6,6 @@
     color: #FF0000;
 }
 
-.vfrc-chat--overlay {
-    height: 500px;
+.vfrc-vc-chat--dialog {
+    max-height: 400px;
 }
