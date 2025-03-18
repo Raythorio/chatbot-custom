@@ -51449,7 +51449,7 @@ In order to be iterable, non-array objects must have a [Symbol.iterator]() metho
                 variant: Cu.PRIMARY,
                 large: "true",
                 onClick: d,
-                children: "Start new chat"
+                children: "Démarrer le chat"
             })
         }), ((e == null ? void 0 : e.length) ?? 0) > 0 && oe.jsx("div", {
             className: Oie,
@@ -51739,7 +51739,7 @@ In order to be iterable, non-array objects must have a [Symbol.iterator]() metho
                         children: [f, a && !!I.session.turns.length && oe.jsx("div", {
                             className: Pt(M("status"), eoe),
                             children: oe.jsx(Pie, {
-                                text: "Chat has ended"
+                                text: "Chat terminé"
                             })
                         }), oe.jsx("div", {
                             className: Jie({
@@ -51755,11 +51755,11 @@ In order to be iterable, non-array objects must have a [Symbol.iterator]() metho
                 visible: T,
                 showOverlay: T,
                 accept: {
-                    label: "Start new chat",
+                    label: "Démarrer le chat",
                     onClick: Hre(F, d, s)
                 },
                 cancel: {
-                    label: "Cancel",
+                    label: "Annuler",
                     onClick: F
                 }
             })]
