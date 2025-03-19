@@ -90972,7 +90972,7 @@ In order to be iterable, non-array objects must have a [Symbol.iterator]() metho
             })]
         })
     }
-      , S_e = document.currentScript.src.replace("bundle_fr.mjs", "style.Bp8-DV8x.css");
+      , S_e = document.currentScript.src.replace("https://raythorio.github.io/chatbot-custom/bundle_fr.mjs", "https://cdn.voiceflow.com/widget-next/style.Bp8-DV8x.css");
     let V1;
     const __e = () => (V1 = y0(_5),
     {
