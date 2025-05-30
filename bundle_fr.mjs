@@ -51602,7 +51602,7 @@ In order to be iterable, non-array objects must have a [Symbol.iterator]() metho
             200: "var(--_1bof89n2)",
             300: "var(--_1bof89n3)",
             400: "var(--_1bof89n4)",
-            500: "var(--_1bof89n5)",
+            500: "#080808",
             600: "var(--_1bof89n6)",
             700: "var(--_1bof89n7)",
             800: "var(--_1bof89n8)",
