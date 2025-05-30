@@ -47186,10 +47186,10 @@ You might need to use a local HTTP server (instead of file://): https://reactjs.
                 ghostwhite: "#f8f8ff",
                 gold: "#ffd700",
                 goldenrod: "#daa520",
-                gray: "#808080",
+                gray: "#080808",
                 green: "#008000",
                 greenyellow: "#adff2f",
-                grey: "#808080",
+                grey: "#080808",
                 honeydew: "#f0fff0",
                 hotpink: "#ff69b4",
                 indianred: "#cd5c5c",
@@ -51413,7 +51413,7 @@ In order to be iterable, non-array objects must have a [Symbol.iterator]() metho
                     target: "_blank",
                     rel: "noreferrer",
                     className: Aie,
-                    children: "Powered by Voiceflow"
+                    children: " "
                 })
             }), f && oe.jsx("div", {
                 className: _ie
